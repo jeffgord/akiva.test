@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+#caution {
+    text-align: center;
+}
+
+body {
+    background-color: bisque;
+}
+
+form {
+    padding-left: 20px
+}
